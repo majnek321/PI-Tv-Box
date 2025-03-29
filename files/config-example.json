@@ -1,1 +1,9 @@
+{
+    "autostart": true,
+    "airplay_enabled": true,
+    "google_cast_enabled": false,
+    "hdmi_cec_enabled": true,
+    "default_skin": "Aura",
+    "volume_on_boot": 70
+}
 
