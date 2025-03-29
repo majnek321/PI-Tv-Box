@@ -5,7 +5,7 @@ Główny autor:
 - Michał // majnek321 (2025)
 
 Specjalne podziękowania:
-- ChatGPT, wierny asystent Profesora
+- ChatGPT
 - Społeczność Raspberry Pi
 - Społeczność Kodi
 - Społeczność Open Source
