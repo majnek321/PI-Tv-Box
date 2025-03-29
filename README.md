@@ -62,7 +62,7 @@ Instalator 1-click      [##........] 20%
 ---
 
 ## 📘 Dokumentacja
-> Pełna dokumentacja i konfigurator znajdziesz wkrótce na **GitBook** projektu: [Kliknij tutaj]([https://github.com/majnek321/PI-Tv-Box/wiki](https://pi-tv-box.gitbook.io/pi-tv-box/files/credits)) 🟣
+> Pełna dokumentacja i konfigurator znajdziesz wkrótce na **GitBook** projektu: [Kliknij tutaj](https://pi-tv-box.gitbook.io/pi-tv-box/files/credits) 🟣
 
 ---
 
