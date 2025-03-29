@@ -1,6 +1,9 @@
 # PI Tv-Box
 
+![Podgląd PI Tv-Box](PI_Tv_Box_AD1.png)
+
 Tworzymy własny **TV-Box** na bazie Raspberry Pi OS z funkcjami:
+
 
 ---
 
