@@ -6,10 +6,9 @@
 
 ---
 
-![TV-Box Preview](images/images/PI_Tv_Box_AD1.png)
+![TV-Box Preview](images/PI_Tv_Box_AD1.png)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-in%20progress-blue" />
   <img src="https://img.shields.io/badge/Licencja-MIT-green" />
   <img src="https://img.shields.io/badge/Budowa-Profesorska's%20edition-purple" />
 </p>
