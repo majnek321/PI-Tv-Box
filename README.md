@@ -1,4 +1,4 @@
-# PI Tv-Box 🟣
+# PI Tv Box 🟣
 
 > **Profesorski projekt multimedialnego TV-Box'a na Raspberry Pi**
 > 
@@ -6,19 +6,19 @@
 
 ---
 
-![TV-Box Preview](images/tvbox_preview.png)
+![TV-Box Preview](images/images/PI_Tv_Box_AD1.png)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-in%20progress-blue" />
-  <img src="https://img.shields.io/badge/license-MIT-green" />
-  <img src="https://img.shields.io/badge/build-professor's%20edition-purple" />
+  <img src="https://img.shields.io/badge/Status-in%20progress-blue" />
+  <img src="https://img.shields.io/badge/Licencja-MIT-green" />
+  <img src="https://img.shields.io/badge/Budowa-Profesorska's%20edition-purple" />
 </p>
 
 ---
 
 ## ✅ Co to jest?
 
-PI Tv-Box to projekt systemu multimedialnego dla Raspberry Pi, który daje Ci:
+PI Tv Box to projekt systemu multimedialnego dla Raspberry Pi, który daje Ci:
 
 - AirPlay Audio & Video
 - Google Cast (YouTube Cast)
