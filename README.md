@@ -3,6 +3,7 @@
 > **Profesorski projekt multimedialnego TV-Box'a na Raspberry Pi**
 > 
 > AirPlay | Google Cast | Kodi | Android TV UI | HDMI-CEC | Pilot UPC
+> Jak skonfigurować?: https://pi-tv-box.gitbook.io/pi-tv-box/files/credits
 
 ---
 
